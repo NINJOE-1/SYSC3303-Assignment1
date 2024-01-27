@@ -1,4 +1,5 @@
 # SYSC 3303 Assignment 1
+Joseph Vretenar 101234613
 ## The sandwich making chefs problem
 
 The Sandwich Making Chefs Problem. (This problem was first published as the cigarette smokers
