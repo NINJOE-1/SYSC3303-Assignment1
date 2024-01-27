@@ -20,7 +20,7 @@ public class AgentThread extends Thread {
         try {
             // check if maxSandwiches has been reached
             while (sandwichTable.getSandwichesMade() < sandwichTable.maxSandwiches) {
-                sandwichTable.placeIngredients(random.nextInt(3)); // place 2 random ingredients
+                sandwichTable.placeIngredients(random.nextInt(6)); // place 2 random ingredients
                 TimeUnit.SECONDS.sleep(1);  // Simulating time to place ingredients on the table
             }
         } catch (InterruptedException e) {

@@ -35,7 +35,7 @@ public class SandwichTable {
             wait();
         }
 
-        // 3 cases for the different chefs
+        // 6 cases for the different chefs
         if (sandwichesMade < maxSandwiches) {
             switch (ingredientIndex) {
                 case 0:
@@ -43,12 +43,24 @@ public class SandwichTable {
                     ingredient2 = "Peanut Butter";
                     break;
                 case 1:
+                    ingredient2 = "Bread";
+                    ingredient1 = "Peanut Butter";
+                    break;
+                case 2:
                     ingredient1 = "Peanut Butter";
                     ingredient2 = "Jam";
                     break;
-                case 2:
+                case 3:
+                    ingredient2 = "Peanut Butter";
+                    ingredient1 = "Jam";
+                    break;
+                case 4:
                     ingredient1 = "Jam";
                     ingredient2 = "Bread";
+                    break;
+                case 5:
+                    ingredient2 = "Jam";
+                    ingredient1 = "Bread";
                     break;
             }
 
