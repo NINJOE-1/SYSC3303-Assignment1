@@ -54,3 +54,10 @@ The process will be printed out on the console in this configuration:
 ## Logging
 The program uses the `java.util.logging.Logger` for logging unexpected errors or events. 
 Log messages are displayed in the console.
+
+## UML Diagrams
+The UML class diagram for this project can be found [here](UMLDiagrams/ClassDiagram.png).
+
+The sequence diagram for an example of the project running and making one sandwich can be found [here](UMLDiagrams/SandwichMakingChefSequenceDiagramExample.png).
+
+The sequence diagrams for individual classes and functions can be found [here](UMLDiagrams/SequenceDiagrams).

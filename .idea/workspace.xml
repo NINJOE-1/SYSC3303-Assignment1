@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd9d577-2f88-4c35-80f8-b25cf9597f77" name="Changes" comment="update README.md">
+    <list default="true" id="2cd9d577-2f88-4c35-80f8-b25cf9597f77" name="Changes" comment="feat: added UML Class and Sequence Diagrams">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML Diagrams/ClassDiagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML Diagrams/SandwichMakingChefSequenceDiagramExample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML Diagrams/SequenceDiagrams/AgentThread.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML Diagrams/SequenceDiagrams/ChefThread.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML Diagrams/SequenceDiagrams/Main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML Diagrams/SequenceDiagrams/SandwichTable-makeSandwich.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML Diagrams/SequenceDiagrams/SandwichTable-placeIngredients.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +84,8 @@
       <workItem from="1706385080897" duration="469000" />
       <workItem from="1706385589102" duration="536000" />
       <workItem from="1706386133079" duration="45000" />
+      <workItem from="1706387502265" duration="168000" />
+      <workItem from="1706387694532" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="update README.md">
       <option name="closed" value="true" />
@@ -85,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706382738495</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: added UML Class and Sequence Diagrams">
+      <option name="closed" value="true" />
+      <created>1706387552163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706387552163</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
+    <MESSAGE value="feat: added UML Class and Sequence Diagrams" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: added UML Class and Sequence Diagrams" />
   </component>
 </project>
